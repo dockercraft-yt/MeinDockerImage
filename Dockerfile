@@ -1,3 +1,2 @@
-FROM alpine
+FROM nginx
 
-RUN echo "Hello World"
